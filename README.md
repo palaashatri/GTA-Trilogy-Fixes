@@ -2,10 +2,10 @@
 A bunch of fixes and links for mods that fix the original Grand Theft Auto trilogy on Steam/Disc, and restores them to their actual "definitive editions"
 
 # Installation
-* Go to [Releases](https://github.com/netizener/GTA-Trilogy-Fixes/releases) and download the files for your respective game's directory
-   * [Grand Theft Auto III](https://github.com/netizener/GTA-Trilogy-Fixes/releases/download/GTA-III/GTA.III.-.The.Classic.Version.7z) 
-   * [Grand Theft Auto Vice City](https://github.com/netizener/GTA-Trilogy-Fixes/releases/download/GTA-VC/GTA.VC.-.The.Classic.Version.7z)
-   * [Grand Theft Auto San Andreas](https://github.com/netizener/GTA-Trilogy-Fixes/releases/download/GTA-SA/GTA.SA.-.The.Classic.Version.7z)
+* Go to [Releases](https://github.com/palaashatri/GTA-Trilogy-Fixes/releases) and download the files for your respective game's directory
+   * [Grand Theft Auto III](https://github.com/palaashatri/GTA-Trilogy-Fixes/releases/download/GTA-III/GTA.III.-.The.Classic.Version.7z) 
+   * [Grand Theft Auto Vice City](https://github.com/palaashatri/GTA-Trilogy-Fixes/releases/download/GTA-VC/GTA.VC.-.The.Classic.Version.7z)
+   * [Grand Theft Auto San Andreas](https://github.com/palaashatri/GTA-Trilogy-Fixes/releases/download/GTA-SA/GTA.SA.-.The.Classic.Version.7z)
 * Extract the files using [7-Zip]() into your game directory
 * Start the game and enjoy!
 
